@@ -1,19 +1,6 @@
-# Flatbox: Low profile hitbox-layout fightstick
+# Flatbox Strong Buttons
 
-This repository contains 3D-printable models, PCB design files and code needed to make an arcade controller that looks like this:
+This Repo is to upload two copies of button cap replacements for the Flatbox fightstick. These buttons have the distinction of printing the inside vertically, so that the tab strength is higher (less chance of breaking on removal) and the tops can be printing horizontally, thus having a smooth finish. 
 
-![Assembled Flatbox](hardware-rev2/images/Flatbox-rev2b-finished-product.jpg)
-
-There are five major versions of the Flatbox. They all use Kailh low profile (choc v1) mechanical keyboard switches. The table below lists their main features. See the README for each version for details on how to make them.
-
-version | [rev1.1](hardware-rev1.1) | [rev2](hardware-rev2) | [rev3](hardware-rev3) | [rev4](hardware-rev4) | [rev5](hardware-rev5)
-------- | ------------------------- | --------------------- | --------------------- | --------------------- | ---------------------
-case dimensions | 218x128x10mm | 218x130x10mm | 218x130x10mm | 218x130x10mm | 218x126x10mm
-compatibility (using suggested firmware) | PC, PS3 | PC, PS3 | PC, PS3, PS4 | PC, PS3, PS4\*, Switch | PC, PS3, PS4\*, Switch
-add-on board | Arduino Pro Micro | - | [Brook PS3/PS4](https://www.brookaccessory.com/detail/58690501/) | - | [RP2040-Zero](https://www.waveshare.com/rp2040-zero.htm)
-onboard chip | - | ATmega32U4 | - | RP2040 | -
-port | micro USB | USB-C | USB-C | USB-C | USB-C
-SMT assembly required | no | yes | yes | yes | no
-firmware | [ATmega32U4](firmware-atmega32u4) | [ATmega32U4](firmware-atmega32u4) | [Brook](https://www.brookaccessory.com/download/PS3/) | [GP2040-CE](https://gp2040-ce.info/) | [GP2040-CE](https://gp2040-ce.info/)
-
-\* - with caveats
+Replaceable - two pieces with clearances to take the buttons apart, so you can change the buttons at any time. Recommended to use some double sided tape for a more secure connection
+Non-Replaceable - Two pieces with tolerances tight enough that the two will not come back apart. Good if you want to only print them once and don't plan on replacing them for aesthetic reasons
