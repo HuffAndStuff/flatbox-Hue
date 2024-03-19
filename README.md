@@ -1,3 +1,5 @@
+![Example image of a Flatbox HUE using a panel from Akira](/Flatbox-Hue-Example.jpg)
+
 # Flatbox Hue
 
 This repo is to upload is to track changes made to the Flatbox v5, so I could make the buttons stronger, and customize the top to add some style. The idea being, I could either print top plates using Hueforge, or by printing them on printer paper and protecting the top with an Acrylic sheet. Inside the repo you'll also find two copies of button cap replacements for the Flatbox fightstick. 
