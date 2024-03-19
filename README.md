@@ -13,7 +13,9 @@ These buttons have the distinction of printing the inside vertically, so that th
 
 ## Flatbox-rev5-Top-HUE.3mf
 
-This is a replacement top case. This new top uses Heat Set inserts M3*6*5 (Although 7mm would be ideal, I couldn't find those) 
+This is a replacement top case. This new top uses Heat Set inserts M3*6*5 (Although 7mm would be ideal, I couldn't find those) </br>
+To attach the top parts, you'll need 6x M3x4mm Thread Button Head Bolts <br>
+You'll still need to print the original Bottom flatbox case file. 
 
 ## TopPlate.svg
 
